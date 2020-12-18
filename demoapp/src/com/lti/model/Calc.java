@@ -18,7 +18,4 @@ public class Calc {
 		System.out.println("mul result is: "+(n1*n2));
 
 	}
-
-	
-	
 }
